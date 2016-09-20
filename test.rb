@@ -7,3 +7,5 @@ puts "show me the git diff???"
 do something |t|
 	puts "I am doing something..." + t.to_s
 end
+
+puts "hello werld"
